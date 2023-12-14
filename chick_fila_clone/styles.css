@@ -1,0 +1,180 @@
+body {
+margin-top: 0px;
+
+}
+
+ul {
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+  margin-top: 0px;
+
+  
+}
+
+ul li {
+  display: inline-block;
+  margin: 20px 20px;
+  color: rgb(231,0,53);
+  font-weight: 600;
+
+
+}
+
+li.signin {
+  margin: 0px 0px 0px 260px;
+}
+
+.front1 {
+  display:inline-block;
+  width: 49%;
+  text-align: center;
+  vertical-align: middle;
+
+  h2 {
+    color: rgb(231,0,53);
+    font-size: 70px;
+    padding: 0px 40px 20px 40px;
+    margin: 0px;
+
+  }
+
+  button {
+    height: 90px;
+    width: 90px;
+    margin: 10px;
+    color: rgb(231,0,53);
+    font-weight: 600;
+    background-color: white;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+
+
+    
+  }
+  
+}
+
+.front2 {
+  display:inline-block;
+  width: 49%;  
+  vertical-align: middle;
+
+   img {
+    width: 100%;
+    height: auto;
+  }
+
+}
+
+#middle {
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.middle1 {
+  display:inline-block;
+  width: 31%;
+  margin: 0px 10px 50px 10px;
+  vertical-align: top;
+  background-color: rgb(243,248,249);
+  border-radius: 30px;
+
+  img {
+    width: 100%;
+    height:auto;
+    border-radius: 30px 30px 0px 0px;
+
+  }
+  h3 {
+    color: rgb(0,80,111);
+    margin: 20px 20px 20px 20px;
+  }
+
+  p{
+    margin: 0px 20px 20px 20px;
+  }
+}
+
+.middle2 {
+  display:inline-block;
+  width: 31%;
+  margin: 0px 10px 0px 10px;
+  vertical-align: top;
+  background-color: rgb(243,248,249);
+  border-radius: 30px;
+
+
+
+  img {
+    width: 100%;
+    border-radius: 30px 30px 0px 0px;
+
+  }
+
+  h3 {
+    color: rgb(0,80,111);
+    margin: 20px 20px 20px 20px;
+  }
+
+  p{
+    margin: 0px 20px 20px 20px;
+  }
+}
+
+
+.middle3 {
+  display:inline-block;
+  width: 31%;
+  margin: 0px 10px 0px 10px;
+  vertical-align: top;
+  background-color: rgb(243,248,249);
+  border-radius: 30px;
+
+
+
+
+  img {
+    width: 100%;
+    border-radius: 30px 30px 0px 0px;
+
+  }
+  h3 {
+    color: rgb(0,80,111);
+    margin: 20px 20px 20px 20px;
+  }
+  p{
+    margin: 0px 20px 20px 20px;
+  }
+}
+
+
+.bottom1 {
+  display:inline-block;
+  width: 45%;
+  vertical-align: middle;
+  background-color: rgb(243,248,249);
+  height: 460px;
+  margin: 0px 0px 0px 60px;
+  
+  h3 {
+    color: rgb(0,80,111);
+    margin: 70px 60px 20px 60px;
+    font-size: 40px;
+  }
+
+  p{
+    margin: 0px 60px 40px 60px;
+    font-size: 18px;
+  }
+
+}
+
+.bottom2 {
+  display:inline-block;
+  width: 45%;
+  vertical-align: middle;
+ 
+  
+}
+
